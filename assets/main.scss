@@ -3,7 +3,6 @@
 ---
 
 @import "minima";
-
 header {
   margin-top: 29px;
 }
@@ -25,4 +24,9 @@ ul.post-list li {
   display: flex;
   flex-direction: row-reverse;
   justify-content: space-between;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
 }
