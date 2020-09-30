@@ -1,0 +1,130 @@
+---
+layout: post
+title:  "Recently"
+date:   2020-10-01 00:56:14 -0400
+categories: recently
+---
+
+I spared myself the horror of watching the first "presidential" debate last
+night. I made the right call judging by the reaction in the press and on my
+twitter feed.
+
+It's rather terrifying that Trump and Biden are the best people we could put
+forward to lead our country.
+
+On to happier things.
+
+## Neil Buchanan, Banksy, and Art with the kids
+
+![Neil Buchanan](/assets/img/neil-vs-neil.png)
+
+I came across a [conspiracy theory][1] of sorts that claims Neil Buchanan, co-founder
+and long time host of children's show [Art Attack][2], is Banksy. Neil has denied it
+but that's exactly the sort of thing Banksy would say, isn't it?
+
+I remembered watching Art Attack in the late 90s on the CBC. It was one of the
+only shows worth watching on the Canadian channels we picked up thanks to
+a huge metal antenna my dad bolted on the roof after we begged him for cable.
+
+After reading about the Banksy rumors I watched a few old episodes on YouTube.
+Neil was a great host, inspiring and friendly. And talented! He would do these
+"wig Art Attacks" in every episode that used all sorts of common materials like
+clothes, skateboard decks, even garbage to make large instalation art pieces on
+camera.
+
+![Big art by Neil Buchanan](/assets/img/bigart.jpeg)
+
+I looked up Neil in more detail and discovered he is a legitimate Rennaissance
+Man. He started Art Attack in Liverpool in the 90s, sold it after almost two
+decades on the air to Disney (for £14 million), opened for bands like Judas
+Priest and White Snake while touring all over Europe in his heavy metal band
+[Marseille][3] in the 70s and 80s, and is still making, showing, and selling his
+art today as well.
+
+He absolutely is Banksy.
+
+I showed Art Attack to my kids (3- and 5-year-olds) and they loved it. We built
+the Carpet Croc's from [this episode][4]. It took something like 6 hours over a few
+days and weekends but it was a lot of fun! We've done a few other things from
+the old shows since as well. I highly recommend Art Attack to you if you are a
+parent looking for things to do with your kids, or even if you don't have kids
+and just want ideas for fun art projects.
+
+Paper mache'd:
+
+![Carpet Crocs paper mached](/assets/img/crocs-white.jpeg)
+
+Final Result:
+
+![Carpet Crocs finished and painted](/assets/img/croc-finished.JPG)
+
+## Working on a smaller screen?
+
+I've spent most of September at a friend of the family's house in the finger
+lakes. I only brought my 15” Macbook, a Roost stand, and my keyboard and mouse.
+I thought I would suffer without my large monitor but working like this has
+actually been very pleasant.
+
+I most enjoy that my computer is now just a tool that can float around and be
+put away quickly when I'm finished with it. There is no megalithic almost
+religious structure glowing in the room beckoning me to return. I think when we
+go back to Boston, I might find a way to keep working like this. 
+
+I wish all tools felt like simple tools.
+
+UPDATE: A week later, I am back to my 1440p monitor 😂
+
+## Ideals and messy code bases
+
+I read Kent Beck's blog [Oh The Messes We Will
+Make](https://medium.com/@kentbeck_7670/oh-the-messes-we-will-make-578af67ad16d)
+the other day. The gist is that messy codebases are probably an ideal state to
+be in. 
+
+A mess is a side effect of healthy exploration, success, and continued growth.
+This makes sense, yet I don't find making that trade-off to be a natural one. By
+default, I will choose neatness. Why?
+
+Kent's article is framed from more of a product level: what's the return on
+investment for neatness versus other possible benefits? One example he shares is
+the messy one-day version we can test and discard quickly versus the one-week
+version with code we are proud of. Hard to argue that it was a "better deal" to
+go with the one-day version there.
+
+Sandi's talks are usually framed by the developer's experience. The struggle of
+dealing with messy code and with code that tried to DRY itself out too early, or
+picked a bad abstraction too soon. It's often better to hold off, duplicate
+things, and collect information for as long as you can before taking the
+refactoring plunge, she coaches us.
+
+This all leads to the same place: building software is not only about writing
+(what you at the moment believe to be) "neat code" but keeping the trade-offs in
+mind as you go.
+
+I can nod my head vigorously along with Kent and Sandi but I also think it will
+probably always be hard to fight this impulse. There are two things I get
+tripped up on:
+
+* I like writing neat code. It's aesthetically pleasing.
+* Sometimes a lingering fear that I am tackling a problem "the wrong way" can
+  lead me to overcompensate by getting too clever too early.
+
+Programming is hard on many levels. Besides being "smart" about writing code it
+turns out you also need to be relatively self-aware and keep track of the ways
+you get yourself into trouble.
+
+I do think (and hope) it gets easier with time and experience. The more you see
+the problems described by Kent and Sandi in the wild, and the damage that floats
+their wake, the easier it is to see the value in being self-aware and
+self-critical so you can avoid that pain.
+
+## Unexpected recently benefits
+
+I had several other short things I wanted to write about in this recently, but
+they've grown longer and I am not finished writing them. Somehow, I ended up
+starting 3 full fledged articles without realizing it.
+
+[1]:https://www.bbc.com/news/entertainment-arts-54061948
+[2]:https://en.wikipedia.org/wiki/Art_Attack
+[3]:https://en.wikipedia.org/wiki/Marseille_(band)
+[4]:https://www.youtube.com/watch?v=wTvg-H_4hko&feature=youtu.be
