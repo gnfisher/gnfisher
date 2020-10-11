@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: gnfisher.com
+title: Greg Fisher
 email: me@gnfisher.com
 description: 
   Personal blog of Greg Fisher.
@@ -28,7 +28,7 @@ twitter_username: gnfisher
 github_username:  gnfisher
 
 # Build settings
-theme: minima
+theme: #minima
 plugins:
   - jekyll-feed
 

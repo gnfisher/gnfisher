@@ -7,16 +7,14 @@ categories: recently
 
 I spared myself the horror of watching the first "presidential" debate last
 night. I made the right call judging by the reaction in the press and on my
-twitter feed.
-
-It's rather terrifying that Trump and Biden are the best people we could put
-forward to lead our country.
-
-On to happier things.
+twitter feed. It's rather terrifying that Trump and Biden are the best people
+we could put forward to lead our country. On to happier things.
 
 ## Neil Buchanan, Banksy, and Art with the kids
 
-![Neil Buchanan](/assets/img/neil-vs-neil.png)
+<p class="img" align="center">
+<img width="400" align="center" alt="Neil Buchanan vs Neil Buchanan" src="/assets/img/neil-vs-neil.png">
+</p>
 
 I came across a [conspiracy theory][1] of sorts that claims Neil Buchanan, co-founder
 and long time host of children's show [Art Attack][2], is Banksy. Neil has denied it
@@ -32,7 +30,9 @@ Neil was a great host, inspiring and friendly. And talented! He would do these
 clothes, skateboard decks, even garbage to make large installation art pieces on
 camera.
 
-![Big art by Neil Buchanan](/assets/img/bigart.jpeg)
+<p class="img" align="center">
+<img width="400" align="center" alt="Big art by Neil Buchanan" src="/assets/img/bigart.jpeg">
+</p>
 
 I looked up Neil in more detail and discovered he is a legitimate Rennaissance
 Man. He started Art Attack in Liverpool in the 90s, sold it after almost two
@@ -50,13 +50,10 @@ the old shows since as well. I highly recommend Art Attack to you if you are a
 parent looking for things to do with your kids, or even if you don't have kids
 and just want ideas for fun art projects.
 
-Paper mache'd:
-
-![Carpet Crocs paper mached](/assets/img/crocs-white.jpeg)
-
-Final Result:
-
-![Carpet Crocs finished and painted](/assets/img/croc-finished.JPG)
+<p class="img" align="center">
+<img width="400" align="center" alt="Carpet Crocs paper mached" src="/assets/img/crocs-white.jpeg">
+<img width="400" align="center" alt="Carpet Crocs finished and painted" src="/assets/img/croc-finished.JPG">
+</p>
 
 ## Working on a smaller screen?
 
