@@ -12,9 +12,7 @@ we could put forward to lead our country. On to happier things.
 
 ## Neil Buchanan, Banksy, and Art with the kids
 
-<p class="img" align="center">
 <img width="400" align="center" alt="Neil Buchanan vs Neil Buchanan" src="/assets/img/neil-vs-neil.png">
-</p>
 
 I came across a [conspiracy theory][1] of sorts that claims Neil Buchanan, co-founder
 and long time host of children's show [Art Attack][2], is Banksy. Neil has denied it
@@ -30,9 +28,7 @@ Neil was a great host, inspiring and friendly. And talented! He would do these
 clothes, skateboard decks, even garbage to make large installation art pieces on
 camera.
 
-<p class="img" align="center">
 <img width="400" align="center" alt="Big art by Neil Buchanan" src="/assets/img/bigart.jpeg">
-</p>
 
 I looked up Neil in more detail and discovered he is a legitimate Rennaissance
 Man. He started Art Attack in Liverpool in the 90s, sold it after almost two
@@ -50,10 +46,7 @@ the old shows since as well. I highly recommend Art Attack to you if you are a
 parent looking for things to do with your kids, or even if you don't have kids
 and just want ideas for fun art projects.
 
-<p class="img" align="center">
 <img width="400" align="center" alt="Carpet Crocs paper mached" src="/assets/img/crocs-white.jpeg">
-<img width="400" align="center" alt="Carpet Crocs finished and painted" src="/assets/img/croc-finished.JPG">
-</p>
 
 ## Working on a smaller screen?
 
@@ -76,11 +69,9 @@ UPDATE: A week later, I am back to my 1440p monitor 😂
 I read Kent Beck's blog [Oh The Messes We Will
 Make](https://medium.com/@kentbeck_7670/oh-the-messes-we-will-make-578af67ad16d)
 the other day. The gist is that messy codebases are probably an ideal state to
-be in. 
-
-A mess is a side effect of healthy exploration, success, and continued growth.
+be in. A mess is a side effect of healthy exploration, success, and continued growth.
 This makes sense, yet I don't find making that trade-off to be a natural one. By
-default, I will choose neatness. Why?
+default I will choose neatness. I wondered why.
 
 Kent's article is framed from more of a product level: what's the return on
 investment for neatness versus other possible benefits? One example he shares is
@@ -95,12 +86,11 @@ things, and collect information for as long as you can before taking the
 refactoring plunge, she coaches us.
 
 This all leads to the same place: building software is not only about writing
-(what you at the moment believe to be) "neat code" but keeping the trade-offs in
-mind as you go.
+(what you at the moment believe to be) "neat code" but keeping the trade-offs
+in mind as you go. I can nod my head vigorously along with Kent and Sandi but I
+also think it will probably always be hard to fight this impulse. 
 
-I can nod my head vigorously along with Kent and Sandi but I also think it will
-probably always be hard to fight this impulse. There are two things I get
-tripped up on:
+There are two things I get tripped up on:
 
 * I like writing neat code. It's aesthetically pleasing.
 * Sometimes a lingering fear that I am tackling a problem "the wrong way" can
@@ -108,12 +98,10 @@ tripped up on:
 
 Programming is hard on many levels. Besides being "smart" about writing code it
 turns out you also need to be relatively self-aware and keep track of the ways
-you get yourself into trouble.
-
-I do think (and hope) it gets easier with time and experience. The more you see
-the problems described by Kent and Sandi in the wild, and the damage that floats
-in their wake, the easier it is to see the value in being self-aware and
-self-critical so you can avoid that pain.
+you get yourself into trouble. I do think (and hope) it gets easier with time
+and experience. The more you see the problems described by Kent and Sandi in
+the wild, and the damage that floats in their wake, the easier it is to see the
+value in being self-aware and self-critical so you can avoid that pain.
 
 ## Unexpected recently benefits
 

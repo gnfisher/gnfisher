@@ -14,9 +14,7 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        <p>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> <small><em>{{ post.date | date: "%b %-d, %Y"  }}</em></small>
-        </p>
       </li>
       {%- endfor -%}
     </ul>

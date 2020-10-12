@@ -4,7 +4,6 @@ title:  "Hello, world"
 date:   2020-09-22 11:56:14 -0400
 categories: 
 ---
-![This blog is open! Open sign](/assets/img/dark-open-sign.jpg)
 
 This is the first post on this, the most recent incantation of the blog. I have
 wanted to write more this past year. Somehow I've never felt like I had
