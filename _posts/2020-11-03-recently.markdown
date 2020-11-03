@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Recently"
+date:   2020-11-03 00:56:14 -0400
+categories: recently
+---
+
+# Recently
+
+I am late on this Recently, and lost a bit of the habit already that I started
+in September. However! I've been running a mile every other day regularly,
+sticking to my dietary goals (vegetarian leaning vegan), and keeping my morning
+routine (5am-7am for running/reading/writing). Unfortunately, I've had to use
+that morning time for work related things quite a bit the last month, and that
+has interferred with my reading, note taking, and writing. Given the amount
+life changes coming down the pipe, I am not hopeful of how November will go.
+But I will try to do my best to keep it steady!
+
+Anyway, this month's recently is short. Let's get on with it.
+
+## Using our brain the way it works best
+
+Last month I read How to Take Smart Notes by Ahrens Sönke. The gist of the book
+is that real learning and original insight comes not from gathering
+encyclopedic knowledge but from making connections between what we learn in
+different contexts. It is very much a how-to book, teaching Niklas Luhmann’s
+"Slip-box Method" of note-taking and writing, but Sönke also spends
+considerable time explaining why that method is so effective.
+
+For example, it turns out our brains are very good at finding patterns and
+similarities (or dissimilarities) between objective, external things. It
+doesn’t do such great a job when comparing subjective, interal things, like
+thoughts. Looking down at physical (or digital) notes that you have captured in
+precise words leans into how the brain works best when searching for
+connections to make between material. Doing it all within your head, not so
+much.
+
+The practical tips from the book were helpful for setting up a structure for
+reading, note-taking, and reviewing notes in a way that leads to some sort of
+output. The result of working in this structure so far has been a considerable
+amount of serendipity. I will move from reading a book on Topic A to reading an
+article on Topic Y and a tweet on Topic Z, and discover there is this thread
+that connects them all together and touches on my own thinking on the subject.
+Something I would have missed without the deeper, more thoughtful approach to
+reading and note taking that the book evangelizes. 
+
+I have high hopes that focusing on this habit of taking smart notes will in
+time lead to a lot more writing, with more original insight, and with less
+stress and misery involved in the process of the writing itself. I highly
+recommend the book to anyone interested in its subject matter.
+
+## Sleeping
+
+An [excellent guide on
+sleep](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life) showed
+up on Hackernews a month or so ago. It suggested biphasic (take a nap and sleep
+at night) and free-running sleep (no alarm clocks, wake when you wake) were
+keys to good sleep. I gave up the alarm clock after reading this and discovered
+that I was waking up around 5am without it. I feel much more alert and less
+groggy in the mornings now. I haven't been able to fit a napping practice into
+my day, but I have been going to bed once I am tired and not fighting it. The
+result has been bed times around 830pm-900pm quite consistently. This doesn't
+leave much time to spend with my wife on weekdays, however, so I am going to
+try harder to incorporate a nap after lunch and see if that shortens the night
+sleep I need, and gives me back my evenings.
